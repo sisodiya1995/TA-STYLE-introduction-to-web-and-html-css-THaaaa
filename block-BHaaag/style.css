@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    font-size: 30px;
+ }
+ 
+ p{
+     color: white;
+     
+  }
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color:#22396A;
+}
+
+h2{
+    color: green;
+    font-size: 30px;
+}
+.heading{
+    font-size: 20px;
+}
+a{ color: red;
+  
+}
+   
+.connect{
+    margin: 20px;
+}
